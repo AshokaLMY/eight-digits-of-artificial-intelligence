@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1528012260 source:c:\users\administrator\desktop\depth-first-search\depth-first-search\main.cpp
+	<iostream>
+	"Deep.h"
+
+1528012478 c:\users\administrator\desktop\depth-first-search\depth-first-search\deep.h
+	<iostream>
+	"queue"
+	"string"
+	<list>
+
+1528013527 source:c:\users\administrator\desktop\depth-first-search\depth-first-search\deep.cpp
+	"Deep.h"
+
+1528013527 source:c:\users\administrator\desktop\depth-first-search\deep.cpp
+	"Deep.h"
+
+1528012478 c:\users\administrator\desktop\depth-first-search\deep.h
+	<iostream>
+	"queue"
+	"string"
+	<list>
+
+1528013693 source:c:\users\administrator\desktop\depth-first-search\main.cpp
+	<iostream>
+	"Deep.h"
+
